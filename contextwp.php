@@ -1,11 +1,10 @@
 <?php
 /**
- * Plugin Name: ContextWP – AI Context Provider for WordPress
- * Description: Expose structured post and ACF data via OpenAI's Model Context Protocol (MCP).
- * Version: 0.1.0
- * Author: Your Name
- * License: GPL2+
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Plugin Name: ContextWP
+ * Description: MCP-compatible plugin for exposing context endpoints to AI agents.
+ * Version: 1.0.0
+ * Author: KWD IT
+ * Author URI: https://kwd-it.co.uk
  * Text Domain: contextwp
  */
 
